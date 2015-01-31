@@ -7,7 +7,7 @@ For now it contains only a more comfortable to use version of regexp.
 
 Usage:
 
-    import "github.com/helmbold/richgo"
+    import "github.com/helmbold/richgo/regexp"
 
     func main() {
       pattern := `/(?P<country>[^/]+)/(?P<city>[^/]+)`
